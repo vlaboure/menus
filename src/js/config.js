@@ -1,0 +1,1 @@
+export const cookTime = 15
